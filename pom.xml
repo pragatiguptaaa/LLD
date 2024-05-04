@@ -19,6 +19,7 @@
     </properties>
     <modules>
         <module>rate-limiter</module>
+        <module>cab-service</module>
     </modules>
 
     <dependencies>
